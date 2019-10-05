@@ -1,0 +1,16 @@
+.Ball {
+    border: 1px solid rgb(243, 27, 11);
+    border-radius: 50%;
+    height: 2.25em;
+    width: 3em;
+    color: white;
+    background-color: rgb(250, 80, 50);
+    display: inline-block;
+    padding-top: 0.75em;
+    text-align: center;
+    margin-right: 0.5em;
+    margin-top: 2em;
+    font-weight: bold;
+    font-size: 1.2em;
+    box-shadow: 4px 1pX 4px -3px rgba(252, 2, 2, 0.76);
+}
